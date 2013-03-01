@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://shallwelin.github.com/sitemap.xml 
