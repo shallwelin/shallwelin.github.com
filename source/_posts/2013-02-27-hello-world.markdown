@@ -3,7 +3,7 @@ layout: post
 title: "Markdown 语法备注"
 date: 2013-02-27 16:50
 comments: true
-categories: 
+categories: [Octopress]
 ---
 
 **备注**：具体样式需要修改screen.css
@@ -13,11 +13,11 @@ categories:
 
 ##代码段示例之一：
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+{% highlight python %}
+def yourfunction():
+	   print "Hello World!"
+{% endhighlight %}
+
 
 ##代码段示例1：
 
@@ -52,7 +52,7 @@ puts markdown.to_html
 **强调**
 
 
-``There is a literal backtick (`) here.``
+行内代码段：``There is a literal backtick (`) here.`` 结束
 
 Use the `printf()` function.
 
