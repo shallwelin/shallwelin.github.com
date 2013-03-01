@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | 偷得余生半日闲，结对编程]]></title>
   <link href="http://shallwelin.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://shallwelin.github.com/"/>
-  <updated>2013-03-01T19:46:23+08:00</updated>
+  <updated>2013-03-01T20:21:45+08:00</updated>
   <id>http://shallwelin.github.com/</id>
   <author>
     <name><![CDATA[nql]]></name>
@@ -20,9 +20,7 @@
     <id>http://shallwelin.github.com/blog/2013/02/27/hello-world</id>
     <content type="html"><![CDATA[<p><strong>备注</strong>：具体样式需要修改screen.css</p>
 
-<h2>Code and Syntax Highlighting</h2>
-
-<blockquote><p>Code blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and Markdown Here -- support syntax highlighting.</p></blockquote>
+<blockquote><p>Code blocks are part of the Markdown spec</p></blockquote>
 
 <h2>代码段示例之一：</h2>
 
@@ -35,6 +33,9 @@
 &lt;p&gt;</code></pre>
 </div>
 </p>
+
+<!-- more -->
+
 
 <h2>代码段示例1：</h2>
 
